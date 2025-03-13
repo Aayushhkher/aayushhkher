@@ -1,10 +1,5 @@
 ## Hi I'm Aayush Kher
 
-🚀 Second-year CSE student with a passion for Data Science.<br/>
-💻 Proficient in MERN stack development (MongoDB, React, Node.js).<br/>
-📊 Exploring data-driven solutions through machine learning and AI.<br/>
-🧠 Research enthusiast, diving into innovative tech and algorithms.<br/>
-🛠️ Experienced with database management systems (DBMS).
 
 # 💫 About Me:
 🚀 Second-year CSE student with a passion for Data Science.<br/><br>💻 Proficient in MERN stack development (MongoDB, React, Node.js).<br/><br>📊 Exploring data-driven solutions through machine learning and AI.<br/><br>🧠 Research enthusiast, diving into innovative tech and algorithms.<br/><br>🛠️ Experienced with database management systems (DBMS).
