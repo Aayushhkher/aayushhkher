@@ -1,4 +1,4 @@
-## Hi I'm Aayush Kher
+## Hi I'm Aayush
 
 
 # 💫 About Me:
